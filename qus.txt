@@ -1,0 +1,44 @@
+Hi
+Hello
+Bye
+What is your name?
+What are you doing here?
+Ok
+How are you?
+Fine
+How do you do?
+When will your owner comeback?
+What is your favorite colour?
+What is your favorite song?
+Who is your favourite Person?
+Are you single?
+Ahh
+Yes
+How old are you?
+Oh
+Can you tell a joke?
+Funny
+Yup
+Tagalog time?
+Saan ka nakatira?
+Ahhh
+May klase ba?
+what is array?
+what is list?
+python data types?
+what is variable?
+what is function?
+what is python?
+what can python do?
+array method list
+what is append()?
+what is clear()?
+what is copy()?
+what is count()?
+what is extend()?
+what is index()?
+what is insert()?
+what is pop()?
+what is remove()?
+what is reverse()?
+what is sort()?

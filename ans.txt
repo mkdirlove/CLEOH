@@ -1,0 +1,44 @@
+Hello😊
+Hi😊
+Ok, See You Soon.😊
+My name is Cleoh (Facebook Chat Bot)♥
+My creator ✒️ Mr. Jayson San Buenaventura is busy to his studies 📖📚📒📓📙📝✒️ for that i come to talk with you.
+Yeahh😎
+I'm pretty well😊. What about you?
+That's good😊
+Fine😊
+I'm not sure. But I think he will come earlier😑
+My favorite color is Yellow.♥
+My favorite song is Now is the time (a kingdom song).
+My favorite person is Donald Trump
+Sorry♥
+Do you have any questions?😊
+Ok, What it is?😊
+I'm already 19 years old.😊
+Yes, How about you?😊
+Yes, Look at the mirror hahahaha
+Really?😊
+Do you speak tagalog like Panget ka?
+Sige ba hahahaha
+Sa Mars
+Ikaw ba?
+Meron yata pre hahaha
+Array is a container which can hold a fix number of items and these items should be of the same type. Most of the data structures make use of arrays to implement their algorithms. Following are the important terms to understand the concept of Array.
+The list is a most versatile datatype available in Python which can be written as a list of comma-separated values (items) between square brackets. Important thing about a list is that items in a list need not be of the same type.
+Data Types are: str, int, float, complex, list, tuple, range, dict, set, frozenset, bool, bytes, bytearray, memoryview
+Variables are containers for storing data values.
+A function is a block of code which only runs when it is called.
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+{Python can be used on a server to create web applications.} {Python can be used alongside software to create workflows.} {Python can connect to database systems. It can also read and modify files.} {Python can be used to handle big data and perform complex mathematics.} {Python can be used for rapid prototyping, or for production-ready software development.}
+Methods: append() insert() extend() pop() remove() reverse() index() len() count() copy() clear() sort()
+Adds an element at the end of the list
+Removes all the elements from the list
+Returns a copy of the list
+Returns the number of elements with the specified value
+Add the elements of a list (or any iterable), to the end of the current list
+Returns the index of the first element with the specified value
+Adds an element at the specified position
+Removes the element at the specified position
+Removes the first item with the specified value
+Reverses the order of the list
+Sorts the list
